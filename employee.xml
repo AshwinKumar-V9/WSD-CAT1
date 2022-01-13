@@ -8,7 +8,7 @@
         <Emp-salary>150000</Emp-salary>
         <Emp-emailid>ashwin@gmail.com</Emp-emailid>
         <Emp-phonenum>9100110090</Emp-phonenum>
-        <Emp-designation>Project Manager</Emp-designation>
+        <Emp-designation>Senior Developer</Emp-designation>
     </Employee>
     <Employee id="2">
         <Emp-name>Melvin Suresh</Emp-name>
@@ -16,7 +16,7 @@
         <Emp-salary>120000</Emp-salary>
         <Emp-emailid>melvin@gmail.com</Emp-emailid>
         <Emp-phonenum>9780110090</Emp-phonenum>
-        <Emp-designation>Technical Lead</Emp-designation>
+        <Emp-designation>Junior Developer</Emp-designation>
     </Employee>
     <Employee id="3">
         <Emp-name>Amey Rajan</Emp-name>
@@ -24,7 +24,7 @@
         <Emp-salary>100000</Emp-salary>
         <Emp-emailid>amey@gmail.com</Emp-emailid>
         <Emp-phonenum>9100119890</Emp-phonenum>
-        <Emp-designation>Senior Developer</Emp-designation>
+        <Emp-designation>Team Leader</Emp-designation>
     </Employee>
     <Employee id="4">
         <Emp-name>Tanuja S</Emp-name>
@@ -48,7 +48,7 @@
         <Emp-salary>90000</Emp-salary>
         <Emp-emailid>sam@gmail.com</Emp-emailid>
         <Emp-phonenum>9100789090</Emp-phonenum>
-        <Emp-designation>Tester</Emp-designation>
+        <Emp-designation>Intern</Emp-designation>
     </Employee>
     <Employee id="7">
         <Emp-name>Vaibhav Girish</Emp-name>
@@ -64,6 +64,6 @@
         <Emp-salary>110000</Emp-salary>
         <Emp-emailid>madhavi@gmail.com</Emp-emailid>
         <Emp-phonenum>9187110090</Emp-phonenum>
-        <Emp-designation>Technical Writer</Emp-designation>
+        <Emp-designation>Intern</Emp-designation>
     </Employee>
 </Company>

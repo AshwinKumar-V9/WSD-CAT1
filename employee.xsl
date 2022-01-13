@@ -55,10 +55,10 @@
                         <td><xsl:value-of select="Emp-emailid"/></td>
                         <td><xsl:value-of select="Emp-phonenum"/></td>
                         <td><xsl:value-of select="Emp-designation"/></td>
-                        <xsl:if test="Emp-age &gt; 50">
+                        <xsl:if test="Emp-age &gt;= 50">
                             <td>Associate Project Manager</td>
                         </xsl:if>
-                        <xsl:if test="Emp-age &gt; 41">
+                        <xsl:if test="(Emp-age &gt;= 40) and (Emp-age &lt;= 49)">
                             <td>Team Leader</td>
                         </xsl:if>
                         <xsl:if test="Emp-age &lt; 40">
